@@ -19,3 +19,17 @@ header {
   padding: 2rem;
   background-color: #fff;
   box-shadow:
+  }
+
+  /* Styling for the search bar */
+#search-input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Styling for the search results */
+#search-results {
+  list-style: none;
+  padding: 0;
+}
